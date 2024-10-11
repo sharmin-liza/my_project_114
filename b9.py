@@ -1,0 +1,5 @@
+highest=max(14,35,7,890,33)
+smallest=min(-34,3,4,6,7,0)
+total=sum([1,3,5,7,8,9])
+count=len([45,98])
+print(highest,smallest,total,count)
